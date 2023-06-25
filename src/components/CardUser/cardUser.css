@@ -1,0 +1,54 @@
+.card-user{
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid wheat;
+    padding: 20px;
+    max-width: 500px;
+    margin:30px;
+}
+.block-user{
+    margin-bottom: 20px;
+}
+.info-user{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.address-user{
+    margin-right: 20px;
+}
+
+.user-navigate{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.user-navigate .nav-link{
+    font-size: 25px;
+    transition: 0.3s linear;
+}
+
+.user-navigate .nav-link:hover{
+    color: antiquewhite;
+}
+
+.btn{
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.nav-btn{
+    background-color: white;
+    border-radius: 10%;
+    padding: 8px 10px;
+    transition: 0.3s linear;
+    border: 1px solid white;
+}
+
+.nav-btn:hover{
+    background-color: black;
+    color: white;
+}

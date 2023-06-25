@@ -1,0 +1,12 @@
+.list-users {
+  min-width: 100vh;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  padding: -30px;
+  /* position: relative; */
+}
+
+.title-users{
+    text-align: center;
+}

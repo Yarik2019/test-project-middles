@@ -1,0 +1,13 @@
+.list-post{
+    background: rgb(53, 52, 52);
+    color: white;
+    padding: 10px 0;
+}
+
+.list-post:first-child{
+    padding-top: 0px;
+}
+
+.title-post{
+    text-align: center;
+}
